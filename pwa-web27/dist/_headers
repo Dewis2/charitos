@@ -1,0 +1,6 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self'; connect-src 'self' https://example-project.supabase.co wss://example-project.supabase.co; img-src 'self' data: blob: https://example-project.supabase.co; style-src 'self' 'unsafe-inline'; object-src 'none'; base-uri 'none'; form-action 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://chatgpt.com https://chat.openai.com
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+  Permissions-Policy: camera=(), geolocation=(), microphone=(self)
+  Cache-Control: no-cache
